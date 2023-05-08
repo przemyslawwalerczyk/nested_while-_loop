@@ -1,0 +1,2 @@
+# nested_while-_loop
+the code provided employs a nested while loop structure to add a total of 10 numbers inputted by the user. The outer loop is responsible for receiving 10 input values. The inner loop is designed to ensure that the user provides a valid numerical input and will continue to prompt for a valid response until one is given. Once a valid numerical input is received, it is added to the final score within the outer loop.
